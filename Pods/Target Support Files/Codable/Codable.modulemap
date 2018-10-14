@@ -1,0 +1,6 @@
+framework module Codable {
+  umbrella header "Codable-umbrella.h"
+
+  export *
+  module * { export * }
+}
